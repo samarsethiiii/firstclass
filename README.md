@@ -1,4 +1,4 @@
-cd ficd# firstclass
+# firstclass
 this is my first repository 
 <br>
 Author- Samar sethi
